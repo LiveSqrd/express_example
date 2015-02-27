@@ -16,5 +16,6 @@
   },
   "devDependencies": {
     "mocha": "1.15.1"
-  }
+  },
+  "port":3000
 }
